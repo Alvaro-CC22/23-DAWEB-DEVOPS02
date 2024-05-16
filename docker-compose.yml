@@ -1,0 +1,9 @@
+version: "3.1"
+
+services:
+  devops:
+    container_name: devops
+    image: acamcor827/devops02
+    ports:
+      - 80:5000
+    restart: always

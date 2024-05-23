@@ -1,8 +1,11 @@
 h1 {
-    color: blue;
+    color: red;
     text-align: center;
-    border-bottom: 1px solid #000;
+    border-bottom: 4px solid blue;
 }
 div {
     text-align: center;
+}
+img {
+    box-shadow: 20px 10px lightblue;
 }
